@@ -1,3 +1,5 @@
-1. Leggere e scrivere bene
-2. Il ritorno di Zorro
-4. Cronache del mondo emerso: Nihal della terra del vento
+Nota: Estos son los libros que estoy leyendo
+Nota: El signo "?" quiere decir que está pendiente añadirle un numero dentro de la rama "Master" una vez terminados de leer.
+? Cronache del mondo emerso: Nihal della terra del vento
+? La guerra dei mondi
+? Mi lucha
