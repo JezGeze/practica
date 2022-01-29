@@ -1,6 +1,13 @@
+//Header JezGeze
+Trabajo de JezGeze: JezGeze se encargará de la rama header; la rama header se encargará de agregar los libros 
+		    que se hayan terminado de leer.
+Libros que se han leído:
 1. Leggere e scrivere bene
 2. Il ritorno di Zorro
 3. Cronache del mondo emerso: La missione di Sennar
 4. Sadako y las mil grullas de papel
 5. La Sacra Bibbia
 6. Cerchi e croci
+
+//Trabajo de JezGeze2: JezGeze2 se encargrá de la rama footer; la rama footer se encargará de agregar los libros que se 		       estén leyendo actualmente o que se quieran leer.
+Libros: que se esten leyendo o se deseen leer: 
