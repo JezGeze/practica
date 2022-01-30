@@ -20,3 +20,4 @@ Nota: El signo "?" quiere decir que está pendiente añadirle un numero dentro d
 ? Hyperion
 ? Hyperion 2
  ? Hyperion 3
+ ? Cronache del mondo emerso: Il talismano del potere
