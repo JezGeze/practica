@@ -15,7 +15,7 @@ Libros que se han leído:
 Libros: que se esten leyendo o se deseen leer: 
 Nota: El signo "?" quiere decir que está pendiente añadirle un numero dentro de la rama "Master" una vez terminados de leer.
 
-? Cronache del mondo emerso: Nihal della terra del vento
+? Cronache del mondo emerso: Nihal della terra del vento.
 ? La guerra dei mondi.
 ? Mi lucha.
 ? Hyperion.
