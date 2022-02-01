@@ -10,15 +10,15 @@ Libros que se han leído:
 6. Cerchi e croci
 7. Atti degli apostoli
 
-//Trabajo de JezGeze2: JezGeze2 se encargrá de la rama footer; la rama footer se encargará de agregar los libros que se 		       estén leyendo actualmente o que se quieran leer.
+//Trabajo de JezGeze2: JezGeze2 se encargrá de la rama footer; la rama footer se encargará de agregar los libros que se estén leyendo actualmente o que se quieran leer.
 Libros: que se esten leyendo o se deseen leer: 
 Nota: El signo "?" quiere decir que está pendiente añadirle un numero dentro de la rama "Master" una vez terminados de leer.
 
-? Cronache del mondo emerso: Nihal della terra del vento
-? La guerra dei mondi
-? Mi lucha
-? Hyperion
-? Hyperion 2
- ? Hyperion 3
- ? Cronache del mondo emerso: Il talismano del potere
-? Il mondo al tempo di Gesù
+? Cronache del mondo emerso: Nihal della terra del vento.
+? La guerra dei mondi.
+? Mi lucha.
+? Hyperion.
+? Hyperion 2.
+? Hyperion 3.
+? Cronache del mondo emerso: Il talismano del potere.
+? Il mondo al tempo di Gesù.
